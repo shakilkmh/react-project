@@ -1,4 +1,4 @@
 technology used:
-react redux
-tailwind css
+react redux,
+tailwind css,
 daisyui
