@@ -1,5 +1,5 @@
 technology used:
 react redux,
 tailwind css,
-daisyui
+daisyui,
 typescript
